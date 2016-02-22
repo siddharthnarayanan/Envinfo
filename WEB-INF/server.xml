@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : server.xml
+    Created on : December 20, 2011, 3:11 PM
+    Author     : j1012484
+    Description:
+        Purpose of the document follows.
+-->
+
+<ServerDetail>
+<server>
+    <name>lenint51</name>
+    <rootDir>D:\bea\doms\devdom\config1</rootDir>
+</server>
+<server>
+    <name>lenint52</name>
+    <rootDir>D:\bea\doms\devdom\config2</rootDir>
+</server>
+<server>
+    <name>lenint53</name>
+    <rootDir>D:\bea\doms\devdom\config2</rootDir>
+</server>
+<server>
+    <name>lenint54</name>
+    <rootDir>D:\bea\doms\devdom\config4</rootDir>
+</server>
+</ServerDetail>
